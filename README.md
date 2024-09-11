@@ -32,6 +32,8 @@ This project is ideal for system administrators, IT professionals, and organizat
 
 ## Dashboard Screenshots
 
-[![Dashboard Screenshot 1](dashboard_screenshot_1.png)](dashboard_screenshot_1.png)
-[![Dashboard Screenshot 2](dashboard_screenshot_1.png)](dashboard_screenshot_1.png)
-[![SSMS Screenshot](SSMS_screenshot_1.png)](SSMS_screenshot_1.png)
+
+
+![dashboard_screenshot_1.png](https://github.com/nikunjk9/System-Performance-Monitoring-and-Visualization/blob/my-new-branch/dashboard_screenshot_1.png)
+![dashboard_screenshot_2.png](https://github.com/nikunjk9/System-Performance-Monitoring-and-Visualization/blob/my-new-branch/dashboard_screenshot_2.png)
+![SSMS_screenshot_1.png](https://github.com/nikunjk9/System-Performance-Monitoring-and-Visualization/blob/my-new-branch/SSMS_screenshot_1.png)
